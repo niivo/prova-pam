@@ -6,12 +6,12 @@
     
     "icons":[
         {
-            "icon":"icons/playstore.png",
+            "scr":"icons/playstore.png",
             "sizes":"512x512",
             "type":"png"
         },
         {
-            "icon":"icons/ic_launcher.png",
+            "scr":"icons/ic_launcher.png",
             "sizes":"192x192",
             "type":"png"
         }
